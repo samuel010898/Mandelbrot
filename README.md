@@ -2,14 +2,14 @@
 
 Drop everything in one folder and run
 
-Controls:
+## Controls
 
-Left/right: change function
+- Left/right: switch functions
+- Up/down: switch color palette
+- Mouse wheel: zoom
+- -/= or keypad -/+: inc/dec iteration count (default 255)
+- Left/right click: also zoom
 
-up/down: change color palette
-
--/=: inc/dec iteration count
-
-mouse wheel: zoom
-
-left/right click: also zoom
+## How to run
+1. Download repository as ZIP
+2. Run `/run/mand.exe`
