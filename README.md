@@ -14,7 +14,7 @@ Shader program that does some stuff
 
 ## How to run
 1. Download repository as ZIP
-2. Run `/run/mand.exe`
+2. Run `/run/ScreenTest.exe`
 
 ## Functions
 0: Mandelbrot
