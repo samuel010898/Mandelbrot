@@ -10,11 +10,15 @@ Shader program that does some stuff
 - ,/.: change color scaling
 - -/= or keypad -/+: inc/dec iteration count (default 255)
 - Home: reset view
+- F11: toggle fullscreen
 - Escape: quit
 
 ## How to run
 1. Download repository as ZIP
-2. Run `/run/ScreenTest.exe`
+2. Extract to its own folder
+3. Run `/run/mand.exe`
+
+-Only the contents /run/ are needed to run the program
 
 ## Functions
 0: Mandelbrot
